@@ -7,11 +7,9 @@ subtitle: 나는 이런 사람 입니다.
 이름 : 임재현
 
 취미
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 사진 : 찍어 볼만 하더라고요
+- 개발 : 취미(?) 라고 하기에는 그렇지만 열심히 공부하고 있습니다.
 
 What else do you need?
 
 ### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
