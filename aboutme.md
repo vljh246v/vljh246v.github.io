@@ -18,11 +18,11 @@ subtitle: 블로그 소개
 - Docker
 - MAS Architecture
 
-### Language
+#### Language
 - JAVA
 - JavaScript
 
-### Server
+#### Server
 - Spring
 - Node
 
