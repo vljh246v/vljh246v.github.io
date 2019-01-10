@@ -1,11 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 나는 이런 사람 입니다.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+이름 : 임재현
 
+취미
 - I rock a great mustache
 - I'm extremely loyal to my family
 
