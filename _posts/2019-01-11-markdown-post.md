@@ -163,14 +163,14 @@ html 코드에로서 `<img>` 태그를 나타낼 수 있다.
 링크와 비슷하지만 맨 앞에 `!` 기호가 붙음
 이때 `title 속성 내용`은 optional 입니다.
 ```markdown
-![사진이 안보입니다. 크리스마스-1](/img/test-img1  "크리스마스1")
+![사진이 안보입니다. 크리스마스-1](https://github.com/vljh246v/vljh246v.github.io/blob/master/img/test-img1.jpg?raw=true  "크리스마스1")
 
 ![사진이 안보입니다. 크리스마스-2][img2]
 
-[img2]: /img/test-img1 "크리스마스2"
+[img2]: https://github.com/vljh246v/vljh246v.github.io/blob/master/img/test-img2.jpg?raw=true "크리스마스2"
 ```
-![사진이 안보입니다. 크리스마스-1](/img/test-img1  "크리스마스1")
+![사진이 안보입니다. 크리스마스-1](https://github.com/vljh246v/vljh246v.github.io/blob/master/img/test-img1.jpg?raw=true  "크리스마스1")
 
 ![사진이 안보입니다. 크리스마스-2][img2]
 
-[img2]: /img/test-img1 "크리스마스2"
+[img2]: https://github.com/vljh246v/vljh246v.github.io/blob/master/img/test-img2.jpg?raw=true "크리스마스2"
