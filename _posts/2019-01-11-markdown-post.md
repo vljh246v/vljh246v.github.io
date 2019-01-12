@@ -239,7 +239,7 @@ html 코드에
 ```html
 <a href="https://www.google.co.kr/">구글</a>
 ```
-~~~
+
 
 ```css
 .list > li {
@@ -261,7 +261,28 @@ $ vim ./~mylist
 s = "Hello, Python
 print s
 ```
-  
+~~~
+```html
+<a href="https://www.google.co.kr/">구글</a>
+```
+```css
+.list > li {
+  position: absolute;
+}
+```
+```javascript
+function foo() {
+    var tempStr = 'Hello, World'
+}
+```
+```bash
+$ vim ./~mylist
+```
+```python
+s = "Hello, Python
+print s
+```
+
 ___
   
 ## 표
