@@ -148,7 +148,7 @@ html 코드에로서 `<a>` 태그를 나타낼 수 있다.
   
 구글 : https://google.com
   
-네이버 : <https://naver.com>\
+네이버 : <https://naver.com>
   
 [1]: https://github.com
   
