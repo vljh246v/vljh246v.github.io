@@ -192,7 +192,6 @@ html 코드에
 [![GitHub](https://raw.githubusercontent.com/vljh246v/vljh246v.github.io/master/img/avatar-icon.png)](https://github.com)
   
 ___
-
   
 ## 인용문
 html 코드에 `<blockquote>` 태그를 나타낼 수있다.
@@ -204,4 +203,53 @@ html 코드에 `<blockquote>` 태그를 나타낼 수있다.
 > 이것은
 > > 인용문
 > > > 입니다.
+  
+___
+  
+## 단일 라인 코드 강조
+html 코드에 `<code>` 태그를 나타낼 수있다.
+```markdown
+`String tempStr = "코드를 강조하라!"`
+```
+`String tempStr = "코드를 강조하라!"`
+  
+___
+  
+## 블럭 라인 코드 강조
+html 코드에 
+```html
+<pre>
+    <code>...</code>
+</pre>
+```
+태그를 나타낼 수있다.
+```markdown
 
+` 기호를 3번 입력 후 표현하고 싶은 언어를 적는다.
+
+```html
+<a href="https://www.google.co.kr/">구글</a>
+```
+
+```css
+.list > li {
+  position: absolute;
+}
+```
+
+```javascript
+function foo() {
+    var tempStr = 'Hello, World'
+}
+```
+
+```bash
+$ vim ./~mylist
+```
+
+```python
+s = "Hello, Python
+print s
+```
+
+```
