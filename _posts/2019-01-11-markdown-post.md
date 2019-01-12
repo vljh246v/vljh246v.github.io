@@ -184,8 +184,8 @@ html 코드에
 <a href='...' >
     <img src='...' alt='...'>
 </a>
-태그를 나타낼 수 있다.
 ```
+태그를 나타낼 수 있다.
   
 ```markdown
 [![GitHub](https://raw.githubusercontent.com/vljh246v/vljh246v.github.io/master/img/avatar-icon.png)](https://github.com)
