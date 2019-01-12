@@ -112,7 +112,7 @@ ___
 html 코드에로서 <a> 태그를 나타낼 수 있다.
 [표시되는 텍스트](링크 title 속성 내용) 으로 표현할 수 있다.
 이때 title 속성 내용은 optional 입니다.
-지
+
 [구글](https://google.com)
   
 [네이버](https://naver.com "네이버 입니다!")
