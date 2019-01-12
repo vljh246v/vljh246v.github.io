@@ -38,7 +38,7 @@ ___
   
 ___
   
-## 제목 (Header)
+## 제목
 html에서 `<h1>` ~ `<h5>`를 표현한다.
 ```markdown
 # <h1>
@@ -107,3 +107,49 @@ html 코드에서 `<ol>`, `<ul>` 태그를 나타낼 수 있다.
   
 ___
   
+## 링크
+html 코드에로서 `<a>` 태그를 나타낼 수 있다.
+[`표시되는 텍스트`](`링크` `title 옵션 내용`) 으로 표현할 수 있다.
+이때 `title 옵션 내용`은 optional 입니다.
+```markdown
+[구글](https://google.com)
+
+[네이버](https://naver.com "네이버 입니다!")
+
+[상대 경로(home)](../../)
+
+참조링크를 아래와 같이 사용 할 수도 있다.
+
+[jaehyun lim 의 GitHub]
+
+[GitHub][1]
+
+아래와 같이 url을 표현할 경우 자동으로 `<a>`태그로 인식한다.
+구글 : https://google.com
+네이버 : <https://naver.com>
+
+[1]: https://github.com
+[jaehyun lim 의 GitHub]: https://github.com/vljh246v "jaehyun의 github!"
+```
+  
+[구글](https://google.com)
+  
+[네이버](https://naver.com "네이버 입니다!")
+  
+[상대 경로(home)](../../)
+  
+참조링크를 아래와 같이 사용 할 수도 있다.
+  
+[jaehyun lim 의 GitHub]
+  
+[GitHub][1]
+  
+아래와 같이 url을 표현할 경우 자동으로 `<a>`태그로 인식한다.
+  
+구글 : https://google.com
+  
+네이버 : <https://naver.com>\
+  
+[1]: https://github.com
+  
+[jaehyun lim 의 GitHub]: https://github.com/vljh246v "jaehyun의 github!"
