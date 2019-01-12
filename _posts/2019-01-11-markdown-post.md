@@ -226,35 +226,37 @@ html 코드에
 \``` 기호를 입력 후 표현하고 싶은 언어를 적고  
 ` 기호를 다시 3번 입력하여 닫아준다.  
 
-```markdown
 
-```(소스코드 종류)
-    xxx xxx xx
-\```
+<code class="markdown hljs" data-lang="MARKDOWN">
+<span class="hljs-code">```html
+&lt;a href="<a class="vglnk" href="https://www.google.co.kr/" rel="nofollow"><span>https</span><span>://</span><span>www</span><span>.</span><span>google</span><span>.</span><span>co</span><span>.</span><span>kr</span><span>/</span></a>" target="_blank"&gt;GOOGLE&lt;/a&gt;
+```</span>
 
-```
-
-```html
-<a href="https://www.google.co.kr/">구글</a>
-```
-
-```css
-.list > li {
+<span class="hljs-code">```css
+.list &gt; li {
   position: absolute;
+  top: 40px;
 }
-```
+```</span>
 
-```javascript
-function foo() {
-    var tempStr = 'Hello, World'
+<span class="hljs-code">```javascript
+function func() {
+  var a = 'AAA';
+  return a;
 }
-```
+```</span>
 
-```bash
-$ vim ./~mylist
-```
+<span class="hljs-code">```bash
+$ vim ./~zshrc
+```</span>
 
-```python
-s = "Hello, Python
+<span class="hljs-code">```python
+s = "Python syntax highlighting"
 print s
-```
+```</span>
+
+<span class="hljs-code">```
+No language indicated, so no syntax highlighting. 
+But let's throw in a </span><b><span class="hljs-code">tag</span></b><span class="hljs-code">.
+```</span>
+</code>
