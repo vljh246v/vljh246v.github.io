@@ -235,7 +235,7 @@ html 코드에
 ```  
 ~~~ 
 
-~~~html
+~~~markdown
 ```html
 <a href="https://www.google.co.kr/">구글</a>
 ```
