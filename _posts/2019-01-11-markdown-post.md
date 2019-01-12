@@ -190,5 +190,6 @@ html 코드에
 ```markdown
 [![GitHub](https://raw.githubusercontent.com/vljh246v/vljh246v.github.io/master/img/avatar-icon.png)](https://github.com)
 ```
+[![GitHub](https://raw.githubusercontent.com/vljh246v/vljh246v.github.io/master/img/avatar-icon.png)](https://github.com)
   
 ___
