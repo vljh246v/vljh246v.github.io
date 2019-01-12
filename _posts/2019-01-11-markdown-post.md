@@ -75,7 +75,7 @@ _**강조된 이텔릭체**_ 도 표현 가능함
 ___
   
 ## 목록
-html 코드에서 `<ol>`, `<ul>` 태그를 나타낼 수 있다.
+html 코드에 `<ol>`, `<ul>` 태그를 나타낼 수 있다.
 ```markdown
 1. 순서가 있는 목록
 1. 순서가 있는 목록
@@ -109,7 +109,7 @@ ___
   
 ## 링크
 ```markdown
-html 코드에로서 <a> 태그를 나타낼 수 있다.
+html 코드에 <a> 태그를 나타낼 수 있다.
 [표시되는 텍스트](링크 title 속성 내용) 으로 표현할 수 있다.
 이때 title 속성 내용은 optional 입니다.
 
@@ -158,7 +158,7 @@ html 코드에로서 <a> 태그를 나타낼 수 있다.
 ___
   
 ## 이미지
-html 코드에로서 `<img>` 태그를 나타낼 수 있다.
+html 코드에 `<img>` 태그를 나타낼 수 있다.
 ```markdown
 ![alt 속성 내용](링크 title 속성 내용) 으로 표현할 수 있다.
 링크와 비슷하지만 맨 앞에 ! 기호가 붙음
@@ -175,3 +175,20 @@ html 코드에로서 `<img>` 태그를 나타낼 수 있다.
 ![사진이 안보입니다. 크리스마스-2][img2]
 
 [img2]: https://github.com/vljh246v/vljh246v.github.io/blob/master/img/test-img2.jpg?raw=true "크리스마스2"
+  
+___
+  
+## 이미지 + 링크
+html 코드에
+```html
+<a href='...' >
+    <img src='...' alt='...'>
+</a>
+태그를 나타낼 수 있다.
+```
+  
+```markdown
+[![GitHub](https://raw.githubusercontent.com/vljh246v/vljh246v.github.io/master/img/avatar-icon.png)](https://github.com)
+```
+  
+___
