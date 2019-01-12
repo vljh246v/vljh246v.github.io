@@ -227,9 +227,11 @@ html 코드에
 표현하고 싶은 언어를 적고  
 다시 \` 3번을 적어 닫아 준다.
 
+```markdown
 \```(소스코드 종류)  
     xxx xxx xx  
 \```  
+```  
 
 ```html
 <a href="https://www.google.co.kr/">구글</a>
