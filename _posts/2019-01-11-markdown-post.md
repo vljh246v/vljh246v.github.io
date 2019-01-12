@@ -316,3 +316,22 @@ ___
 <img width="150" src="https://github.com/vljh246v/vljh246v.github.io/blob/master/img/test-img1.jpg?raw=true" alt="크리스마스" title="크리스마스">
 
 ![Prunus](https://github.com/vljh246v/vljh246v.github.io/blob/master/img/test-img1.jpg?raw=true)
+  
+___
+  
+## 수평선
+html 코드에 `<hr>` 태그를 나타낼 수있다.
+```markdown
+---
+그냥 바
+***
+별표
+___
+언더 바
+```
+---
+그냥 바
+***
+별표
+___
+언더 바
