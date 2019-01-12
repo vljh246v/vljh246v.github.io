@@ -113,23 +113,25 @@ html 코드에로서 `<a>` 태그를 나타낼 수 있다.
 이때 `title 옵션 내용`은 optional 입니다.
 ```markdown
 [구글](https://google.com)
-
+  
 [네이버](https://naver.com "네이버 입니다!")
-
+  
 [상대 경로(home)](../../)
-
+  
 참조링크를 아래와 같이 사용 할 수도 있다.
-
+  
 [jaehyun lim 의 GitHub]
-
+  
 [GitHub][1]
 
-아래와 같이 url을 표현할 경우 자동으로 `<a>`태그로 인식한다.
-구글 : https://google.com
-네이버 : <https://naver.com>
-
 [1]: https://github.com
+  
 [jaehyun lim 의 GitHub]: https://github.com/vljh246v "jaehyun의 github!"
+  
+
+아래와 같이 url을 표현할 경우 자동으로 `<a>`태그로 인식한다.
+
+네이버 : <https://naver.com>
 ```
   
 [구글](https://google.com)
@@ -143,13 +145,12 @@ html 코드에로서 `<a>` 태그를 나타낼 수 있다.
 [jaehyun lim 의 GitHub]
   
 [GitHub][1]
-  
-아래와 같이 url을 표현할 경우 자동으로 `<a>`태그로 인식한다.
-  
-구글 : https://google.com
-  
-네이버 : <https://naver.com>
-  
+
 [1]: https://github.com
   
 [jaehyun lim 의 GitHub]: https://github.com/vljh246v "jaehyun의 github!"
+  
+
+아래와 같이 url을 표현할 경우 자동으로 `<a>`태그로 인식한다.
+  
+네이버 : <https://naver.com>
