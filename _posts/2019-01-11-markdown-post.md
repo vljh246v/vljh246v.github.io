@@ -108,10 +108,11 @@ html 코드에서 `<ol>`, `<ul>` 태그를 나타낼 수 있다.
 ___
   
 ## 링크
-html 코드에로서 `<a>` 태그를 나타낼 수 있다.
-`[표시되는 텍스트](링크 title 속성 내용)` 으로 표현할 수 있다.
-이때 `title 속성 내용`은 optional 입니다.
 ```markdown
+html 코드에로서 <a> 태그를 나타낼 수 있다.
+[표시되는 텍스트](링크 title 속성 내용) 으로 표현할 수 있다.
+이때 title 속성 내용은 optional 입니다.
+지
 [구글](https://google.com)
   
 [네이버](https://naver.com "네이버 입니다!")
@@ -159,10 +160,11 @@ ___
   
 ## 이미지
 html 코드에로서 `<img>` 태그를 나타낼 수 있다.
-`![alt 속성 내용](링크 title 속성 내용)` 으로 표현할 수 있다.
-링크와 비슷하지만 맨 앞에 `!` 기호가 붙음
-이때 `title 속성 내용`은 optional 입니다.
 ```markdown
+![alt 속성 내용](링크 title 속성 내용) 으로 표현할 수 있다.
+링크와 비슷하지만 맨 앞에 ! 기호가 붙음
+이때 title 속성 내용은 optional 입니다.
+
 ![사진이 안보입니다. 크리스마스-1](https://github.com/vljh246v/vljh246v.github.io/blob/master/img/test-img1.jpg?raw=true  "크리스마스1")
 
 ![사진이 안보입니다. 크리스마스-2][img2]
