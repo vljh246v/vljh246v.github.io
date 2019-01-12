@@ -357,3 +357,18 @@ ___
 하느님이 보우하사 우리나라 만세  
 무궁화 삼천리 화려 강산<br>
 대한 사람 대한으로 길이 보전하세  
+  
+___
+  
+  
+# 느낀점
+
+마크다운 문법은 간편하고 특별한 스킬 없이도 누구나 적을 수 있다는 점이 좋은 것 같다.
+해당 블로그도 마크다운 문법을 통하여 작성을 하였고 해당 소스코드는 [해당 Repositorie][2] _post 폴더에서 에서 볼 수 있습니다.
+
+# 참고 사이트
+<https://heropy.blog/2017/09/30/markdown/>
+<https://news.trendtalk.kr/markdown-intro/>
+<https://agiantmind.tistory.com/156>
+
+[2]: https://github.com/vljh246v/vljh246v.github.io
