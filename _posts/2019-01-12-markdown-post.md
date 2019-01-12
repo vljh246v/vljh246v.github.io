@@ -367,8 +367,8 @@ ___
 해당 블로그도 마크다운 문법을 통하여 작성을 하였고 해당 소스코드는 [해당 Repositorie][2] _post 폴더에서 에서 볼 수 있습니다.
 
 # 참고 사이트
-<https://heropy.blog/2017/09/30/markdown/>
-<https://news.trendtalk.kr/markdown-intro/>
-<https://agiantmind.tistory.com/156>
+<https://heropy.blog/2017/09/30/markdown/>  
+<https://news.trendtalk.kr/markdown-intro/>  
+<https://agiantmind.tistory.com/156>  
 
 [2]: https://github.com/vljh246v/vljh246v.github.io
