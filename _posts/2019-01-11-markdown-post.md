@@ -224,8 +224,8 @@ html 코드에
 ```
 태그를 나타낼 수있다.
 ```markdown
-
 ` 기호를 3번 입력 후 표현하고 싶은 언어를 적는다.
+```
 
 ```html
 <a href="https://www.google.co.kr/">구글</a>
@@ -250,6 +250,4 @@ $ vim ./~mylist
 ```python
 s = "Hello, Python
 print s
-```
-
 ```
