@@ -298,3 +298,17 @@ html 코드에 `<table>` 태그를 나타낼 수있다.
 | :--- | :---: | ---: |
 | 내용 11 | 내용 12 | 내용 13 |
 | 내용 21 | 내용 22 | 내용 23 |
+  
+___
+  
+## HTML
+실제 마크다운에서는 멀티미디어 표현이 조금 힘든점이 있다.
+특히 이미지 사이즈 같은 경우 html에서는 width 속성을 이용해서 줄일 수 있지만
+마크다운에서는 힘들다.
+이때 원시 html을 사용하여 표현 할 수 있다. 
+  
+~~~markdown
+<img width="150" src="https://github.com/vljh246v/vljh246v.github.io/blob/master/img/test-img1.jpg?raw=true" alt="크리스마스" title="크리스마스">
+
+![Prunus](https://github.com/vljh246v/vljh246v.github.io/blob/master/img/test-img1.jpg?raw=true)
+~~~
