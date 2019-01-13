@@ -4,7 +4,7 @@ title: Spring boot 톰캣 -> jetty
 subtitle: 톰캣 -> jetty
 tags: [post, jetty, eclipse, 공부, 웹컨테이너, spring boot, spring]
 comments: true
-image: /img/jetty.svg
+image: /img/jetty.png
 ---
 
 
