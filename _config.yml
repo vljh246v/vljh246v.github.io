@@ -105,10 +105,10 @@ url-pretty: "https://github.com/vljh246v"  # eg. "deanattali.com/beautiful-jekyl
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+#gtag: "UA-132352882-1"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: "UA-132352882-1"
+#google_analytics: "132352882"
 
 # Google Tag Manager ID
 #gtm: ""
